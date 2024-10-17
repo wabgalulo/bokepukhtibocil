@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bokepukhtibocil.pages.dev/sitemap.xml
